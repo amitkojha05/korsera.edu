@@ -3,6 +3,7 @@
 Korsera is a Nextjs project of a educational site (something like a course selling website)
 
 ## Live Link (Deployed on vercel)
+https://korsera-edu.vercel.app/
 
 ## Dependencies
 
