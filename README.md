@@ -1,30 +1,8 @@
-# Korsera (Educational site project made for [30DaysCoding](https://twitter.com/30dayscoding) by [Aryan Singh](https://twitter.com/Singh1Aryan))
-
 ## Overview
 
 Korsera is a Nextjs project of a educational site (something like a course selling website)
 
 ## Live Link (Deployed on vercel)
-
-https://korsera-final.vercel.app/
-
-## Build in Public
-
-### Link of the posts related to the progress of the project on my [Twitter](https://x.com/amaan8429)
-
-1. Got notfied late about the Project so no Day 1
-2. [Day 2](https://x.com/amaan8429/status/1782147051188637767)
-3. [Day 3](https://x.com/amaan8429/status/1782820223877599709)
-4. [Day 4](https://x.com/amaan8429/status/1783729098969534627)
-5. [Day 5](https://x.com/amaan8429/status/1783790949061329284)
-
-## Installation
-
-1. Clone this repository.
-2. Navigate to the project directory.
-3. Run `npm install` to install the dependencies.
-4. Set up the env file as detailed below
-5. Run `npm run dev` to run the project on your localhost
 
 ## Dependencies
 
@@ -45,25 +23,7 @@ https://korsera-final.vercel.app/
 - [**Radix UI**](https://radix-ui.com): Library for building accessible UI components.
 - [**Lucide Icons**](https://lucide.netlify.app): Library for SVG icons.
 
-## Setting up the .env file
 
-Create a `.env` file in the root directory of the project. Add the following environment variables:
 
-```
-NODE_ENV=development
-MONGODB_URI=<Your MongoDB Connection URI>
-NEXTAUTH_URL=<Your NextAuth.js Base URL>
-NEXTAUTH_SECRET=<Your NextAuth.js Secret>
-```
-
-Ensure you replace the placeholder values with your actual configuration.
-
-## How to Contribute
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
-3. Make your changes and commit them: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature-name`.
-5. Submit a pull request.
 
 ---
